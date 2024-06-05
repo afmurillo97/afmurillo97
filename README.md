@@ -6,7 +6,7 @@ I am a web developer with over 3 years of experience, passionate about creating 
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [afmurillo97@gmail.com](mailto:afmurillo97@gmail.com)
-* 🧠  I'm learning Laravel Projects* 🤝  I'm open to collaborating on API Projects.
+* 🧠  I'm learning Laravel Projects* 🤝  I'm open to collaborating on React Projects.
 
 ### 🌟 What I Do:
 - **Backend Development**: Creating web applications with PHP and Laravel, managing SQL databases like MySQL and PostgreSQL.
