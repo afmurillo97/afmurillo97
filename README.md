@@ -2,7 +2,7 @@
 
 #### Junior PHP Developer | Specializing in JavaScript, jQuery, and MySQL
 
-I am a web developer with over 3 years of experience, passionate about creating robust and efficient applications. My primary focus is on development with PHP and frameworks like Laravel, where I have gained a deep understanding and ability to solve complex problems.
+I am a web developer with over 6 years of experience, passionate about creating robust and efficient applications. My primary focus is on development with PHP and frameworks like Laravel, where I have gained a deep understanding and ability to solve complex problems.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [afmurillo97@gmail.com](mailto:afmurillo97@gmail.com)
