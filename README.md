@@ -1,6 +1,6 @@
 ### Hi, I'm Felipe Murillo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-#### Junior PHP Developer | Specializing in JavaScript, jQuery, and MySQL
+#### Senior PHP Developer | Specializing in JavaScript, jQuery, and MySQL
 
 I am a web developer with over 6 years of experience, passionate about creating robust and efficient applications. My primary focus is on development with PHP and frameworks like Laravel, where I have gained a deep understanding and ability to solve complex problems.
 
